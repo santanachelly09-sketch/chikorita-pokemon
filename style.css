@@ -1,0 +1,44 @@
+```css
+body {
+  background: #d9f7d9;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.pokemon {
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 5px 12px #999;
+}
+
+h1 {
+  color: #4b9b35;
+}
+
+img {
+  width: 150px;
+}
+
+.descricao {
+  height: 75px;
+  padding: 10px;
+  overflow-y: auto;
+  border: 2px solid #76b947;
+  border-radius: 10px;
+}
+
+.info {
+  padding: 12px;
+  white-space: nowrap;
+  overflow-x: auto;
+  border: 2px solid #76b947;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #4b9b35;
+}
+```
